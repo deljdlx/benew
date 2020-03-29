@@ -1,5 +1,5 @@
 <?php
-namespace BeNew;
+namespace Test;
 
 
 class Hello
@@ -7,7 +7,7 @@ class Hello
 
     public function __toString()
     {
-        return 'hello';
+        return 'hello(test)';
     }
 
 }

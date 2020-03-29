@@ -1,6 +1,6 @@
 <?php
 
-namespace BeNew;
+namespace Root;
 
 trait DummyTrait
 {

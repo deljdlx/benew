@@ -1,5 +1,5 @@
 <?php
-namespace BeNew;
+namespace Phi\Experiment;
 
 
 class Space
@@ -27,8 +27,6 @@ class Space
     {
         return $this->name;
     }
-
-
 
 
     public function inherit(Space $parentSpace)

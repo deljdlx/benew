@@ -1,12 +1,12 @@
 <?php
 
 
-namespace BeNew;
+namespace Root;
 
 class World
 {
     public function __toString()
     {
-        return 'world';
+        return 'world(root)';
     }
 }

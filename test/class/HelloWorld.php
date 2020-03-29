@@ -1,10 +1,13 @@
 <?php
 
 
-namespace BeNew;
+namespace Test;
+
+use Root\DummyTrait;
 
 class HelloWorld
 {
+
     use DummyTrait;
 
     public function __toString()
